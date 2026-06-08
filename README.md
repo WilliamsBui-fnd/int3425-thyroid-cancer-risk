@@ -40,5 +40,3 @@ Khác với các phương pháp Black-box Machine Learning truyền thống, d�
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/your-username/thyroid-risk-intelligence.git](https://github.com/your-username/thyroid-risk-intelligence.git)
-   cd thyroid-risk-intelligence
