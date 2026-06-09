@@ -6,6 +6,9 @@
 
 Dự án cuối kỳ môn **Khoa học Dữ liệu (INT3425)**. Áp dụng các phương pháp thống kê suy luận (Inferential Statistics) và Học máy (Machine Learning) để phân tích các chỉ số sinh hóa và dự đoán nguy cơ mắc ung thư tuyến giáp.
 
+Mức độ đóng góp: Bùi Đình Cảnh - 60%
+Trần Đức Anh: 40%
+
 ## 📖 Bối cảnh dự án
 Tuyến giáp đóng vai trò quan trọng trong việc điều hòa trao đổi chất thông qua các hormone (TSH, T3, T4). Dự án này hướng tới việc khai phá mối tương quan giữa các chỉ số này với nguy cơ ung thư tuyến giáp. 
 
